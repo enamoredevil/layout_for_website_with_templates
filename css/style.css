@@ -797,6 +797,8 @@ body {
 /* MODAL  */
 
 .modal {
+	display: flex;
+	align-items: center;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -1184,6 +1186,8 @@ body {
 		flex-direction: column;
 		gap: 50px;
 	}
+
+
 
 	.modal__window {
 		margin: 100px auto;
