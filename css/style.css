@@ -1187,6 +1187,7 @@ body {
 
 	.modal__window {
 		margin: 100px auto;
+		width: 100%;
 	}
 }
 
