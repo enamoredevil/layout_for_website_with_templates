@@ -1185,17 +1185,8 @@ body {
 		gap: 50px;
 	}
 
-
-	.modal {
-		display: flex;
-		justify-content: center;
-		padding: 0 15px;
-	}
-
-
 	.modal__window {
 		margin: 100px auto;
-		min-width: 440px;
 	}
 }
 
