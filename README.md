@@ -2,7 +2,7 @@
 
 ___
 
-You can try it out **[here]('https://enamoredevil.github.io/layout_for_website_with_templates')**
+You can try it out **[here](https://enamoredevil.github.io/layout_for_website_with_templates/)**
 ___
 
 ### features:
